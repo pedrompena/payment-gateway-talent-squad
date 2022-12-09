@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import PaymentForm from './components/paymentForm';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <PaymentForm />
+      <div className="footer">
+        Desing by <a target="_blank" rel="noreferrer" href="https://github.com/s3rtr3s">Pedro Peña</a> 2022.
+      </div>
     </div>
   );
 }
