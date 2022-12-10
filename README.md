@@ -1,71 +1,17 @@
-# Getting Started with Create React App
+"Payment Gateway"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Planteamiento:
 
-## Available Scripts
+Para el siguiente ejercicio quice usar herramientas básicas ya que se trata de un ejercicio corto.
 
-In the project directory, you can run:
+Decidí crear un solo componente ya que al ser un formulario de pago este bien podria ser un componente de una aplicion mucho más grande.
 
-### `npm start`
+Para el diseño utilice un estilo llamado neomorfismo y utilice una página que me regresa los estilos (neumorphism.io). Con ella pude lograr un estilo fresco pero serio ya que se trata de una pasarela de pago y la informcion debe estar baastante clara.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para ejecutar el codigo:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Debe estar Node.js instalado correctamente.
+Ejecutaremos en nuestra consola ubicados en el directorio del proyecto el comando "npm install".
+Seguido de eso ejecutaremos el comando "npm start" y este nos devolvereaa informacion sobre en que puerto esta corriendo nuestro codigo y podremos visualizarlo a travez de nuestro navegador.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# payment-gateway-talent-squad
+Para finalizar, me gustaria dar gracias por la oportunidad que brindan aa muchas personas al realizar un evento como este, para mi fue una ventura por el tiempo, pero sin duda fue divertido, espero dar mucho mas de mi en alguna proxima edicion, seguire aprendiendo y esforzandome cada dia mas.
